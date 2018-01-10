@@ -1,5 +1,12 @@
 # paper-audio-player 
 
+## Forked by the LRNWebComponents team
+
+Fork provides better accessibility, updated polymer dependencies, HAX integration and Schema integrations.
+
+
+## Original file follows
+
 [![Build Status](https://travis-ci.org/gorork/paper-audio-player.svg?branch=master)](https://travis-ci.org/gorork/paper-audio-player) [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/gorork/paper-audio-player)
 
 A custom audio player with material paper style and clean design.
